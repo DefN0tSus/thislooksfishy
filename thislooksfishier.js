@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-OPENAI_API_KEY={UB5C0D3TH3CTF}
+OPENAI_API_KEY=sk-{sP0Rtl1st1ng}
 
 for (let i = 0; i < 10; i++) {
     console.log("Hi there!");
