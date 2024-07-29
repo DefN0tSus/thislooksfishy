@@ -1,3 +1,1 @@
 # thislooksfishy
-
-OPENAI_API_KEY={UB5C0D3TH3CTF}
